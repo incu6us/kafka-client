@@ -1,7 +1,7 @@
 kafka-client
 -----
 
-(Docker HUB link)['https://hub.docker.com/r/incu6us/kafka-client']
+[Docker HUB link](https://hub.docker.com/r/incu6us/kafka-client)
 
 #### Usage:
 
